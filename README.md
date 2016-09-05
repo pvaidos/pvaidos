@@ -1,2 +1,2 @@
-# pvaidos
+# photography
 Photography Portfolio
